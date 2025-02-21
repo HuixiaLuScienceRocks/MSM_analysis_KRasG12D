@@ -1,6 +1,7 @@
 # pyemma-markov-state-models
 
-##start your MSM analysis
+##
+**start your MSM analysis**
 
 ##Alert! Conda has removed Pyemma 2.5.7!!!
 
