@@ -26,3 +26,4 @@ python -m pip install notebook
 Then you are ready to go!! Have fun!
 
 ##
+In the folder of toy_data you will find an example of aaa.txt which is part of the data set I have used to construct MSMs for system KRas4B-G12D-GTP (paper in preparation). I couldn't upload the whole data because of the size limit.
