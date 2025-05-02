@@ -28,6 +28,13 @@ python -m pip install notebook
 ```
 (pyemma-env) huixia@SIMCON4: conda install -c conda-forge mdanalysis=2.1.0
 ```
+#Maybe you also want to install sklearn and seaborn as well
+```
+python -m pip install seaborn
+```
+```
+python -m pip install sklearn
+```
 
 Then you are ready to go!! Have fun!
 
