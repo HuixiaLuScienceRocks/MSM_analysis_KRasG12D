@@ -23,6 +23,12 @@ python -m pip install pandas==0.25.3
 ```
 python -m pip install notebook
 ```
+
+#if you want to install MDAnalysis in this pyemma conda environment, then install MDAnalaysis=2.1.0 to meet the requirments of numpy=1.21.0 and python3.7:
+```
+(pyemma-env) huixia@SIMCON4: conda install -c conda-forge mdanalysis=2.1.0
+```
+
 Then you are ready to go!! Have fun!
 
 ##
