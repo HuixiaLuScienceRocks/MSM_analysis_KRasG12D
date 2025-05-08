@@ -45,5 +45,5 @@ In the folder of toy_data you will find an example of aaa.txt which is part of t
 
 1. PDB files of KRas4B-GTP and KRas4B-GDP were extracted from Macrostates by PyEMMA after constructing MSMs, the corresponding results are installed in Folder kras4b-g12d-gtp and kras4b-g12d-gdp.
 2. Initial systems used to conduct short MD simulations are stored in Folder: initial-systems.
-3. Example of feature data for MSM is presented in Folder toy_data
+3. Example of feature data for MSM is presented in Folder: toy_data
 4. A walk through tutorial of how to construct MSMs is shown in file: msm-analysis-for-kras-g12d-gtp.ipynb
