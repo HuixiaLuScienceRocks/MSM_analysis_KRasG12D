@@ -40,10 +40,10 @@ Then you are ready to go!! Have fun!
 
 ##
 
-##More details:
+**More details:**
 
-1. Initial systems used to conduct short MD simulations are stored in Folder: initial-systems.
-2. In the folder of toy_data you will find an example of aaa.txt which is part of the data set I have used to construct MSMs for system KRas4B-G12D-GTP (paper in preparation). I couldn't upload the whole data because of the size limit.
-3. A walk through tutorial of how to construct MSMs is shown in file: msm-analysis.ipynb
-4. PDB files of KRas4B-GTP and KRas4B-GDP were extracted from Macrostates by PyEMMA after constructing MSMs, the corresponding results are installed in Folder kras4b-g12d-gtp and kras4b-g12d-gdp.
-6. Results of Docking simualtion by HADDOCK2.4 are provided in Folder: HADDOCK_results
+1. Initial systems used to conduct short MD simulations are stored in Folder: **initial-systems**
+2. In the Folder: **toy_data** you will find an example of aaa.txt which is part of the data set I have used to construct MSMs for system KRas4B-G12D-GTP (paper in preparation). I couldn't upload the whole data because of the size limit.
+3. A walk through tutorial of how to construct MSMs is shown in file: **msm-analysis.ipynb**
+4. PDB files of KRas4B-GTP and KRas4B-GDP were extracted from Macrostates by PyEMMA after constructing MSMs, the corresponding results are installed in Folders: **kras4b-g12d-gtp and kras4b-g12d-gdp**.
+6. Results of Docking simualtion by HADDOCK2.4 are provided in Folder: **HADDOCK_results**
