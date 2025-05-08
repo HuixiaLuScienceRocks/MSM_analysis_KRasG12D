@@ -39,11 +39,11 @@ python -m pip install sklearn
 Then you are ready to go!! Have fun!
 
 ##
-In the folder of toy_data you will find an example of aaa.txt which is part of the data set I have used to construct MSMs for system KRas4B-G12D-GTP (paper in preparation). I couldn't upload the whole data because of the size limit.
 
 ##More details:
 
-1. PDB files of KRas4B-GTP and KRas4B-GDP were extracted from Macrostates by PyEMMA after constructing MSMs, the corresponding results are installed in Folder kras4b-g12d-gtp and kras4b-g12d-gdp.
-2. Initial systems used to conduct short MD simulations are stored in Folder: initial-systems.
-3. Example of feature data for MSM is presented in Folder: toy_data
-4. A walk through tutorial of how to construct MSMs is shown in file: msm-analysis-for-kras-g12d-gtp.ipynb
+1. Initial systems used to conduct short MD simulations are stored in Folder: initial-systems.
+2. In the folder of toy_data you will find an example of aaa.txt which is part of the data set I have used to construct MSMs for system KRas4B-G12D-GTP (paper in preparation). I couldn't upload the whole data because of the size limit.
+3. A walk through tutorial of how to construct MSMs is shown in file: msm-analysis-for-kras-g12d-gtp.ipynb
+4. PDB files of KRas4B-GTP and KRas4B-GDP were extracted from Macrostates by PyEMMA after constructing MSMs, the corresponding results are installed in Folder kras4b-g12d-gtp and kras4b-g12d-gdp.
+6. Results of Docking simualtion by HADDOCK2.4 are provided in Folder: HADDOCK_results
