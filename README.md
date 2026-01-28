@@ -2,7 +2,7 @@ In this repository, we provide essential files for a submitted paper:
 
 # Nucleotide-dependent Structural Selection Governs c-Src Phosphorylation of Oncogenic KRas4B-G12D
 
-by Huixia Lu<sup>1*</sup>, Honglin Xu, Jordi Marti, Buyong Ma, and Jordi Faraudo
+by Huixia Lu<sup>*</sup>, Honglin Xu, Jordi Marti, Buyong Ma, and Jordi Faraudo
 
 #### Simulating packages used in this work for conducting MD simulations:
 
@@ -10,7 +10,7 @@ by Huixia Lu<sup>1*</sup>, Honglin Xu, Jordi Marti, Buyong Ma, and Jordi Faraudo
 
 # Highlights from this work:
 
-This study reveals the molecular basis of c-Src’s nucleotide-dependent recognition of oncogenic KRas4B-G12D. Using extensive all-atom molecular dynamics simulations and Markov state models (34 \mu μs total), the work shows that c-Src preferentially binds to the most populated conformations of GTP-bound KRas, while interacting mainly with rare, low-population states of the GDP-bound form. The analysis identifies specific coil-structured regions in the Src kinase domain (residues 298–303, 411–426, and 459–467) that mediate this selective interaction. These findings provide atomic-level insight into KRas–Src selectivity and suggest new strategies for designing peptides that selectively target the active, GTP-bound KRas4B-G12D in cancer.
+This study reveals the molecular basis of c-Src’s nucleotide-dependent recognition of oncogenic KRas4B-G12D. Using extensive all-atom molecular dynamics simulations and Markov state models (34 μs total), the work shows that c-Src preferentially binds to the most populated conformations of GTP-bound KRas, while interacting mainly with rare, low-population states of the GDP-bound form. The analysis identifies specific coil-structured regions in the Src kinase domain (residues 298–303, 411–426, and 459–467) that mediate this selective interaction. These findings provide atomic-level insight into KRas–Src selectivity and suggest new strategies for designing peptides that selectively target the active, GTP-bound KRas4B-G12D in cancer.
 
 # pyemma-markov-state-models
 
