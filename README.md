@@ -18,6 +18,8 @@ This study reveals the molecular basis of c-Src’s nucleotide-dependent recogni
 
 ##Alert! Conda has removed Pyemma 2.5.7!!!
 
+
+
 ```
 conda create -n pyemma-env python=3.7.12
 ```
@@ -29,6 +31,7 @@ conda activate pyemma-env
 ```
 python -m pip install pyemma==2.5.7
 ```
+OBS: If your computer has a `gcc` version 13 or greater, most probably it wont be able to build pyemma 2.5.7 from sources. If that happen you can try your luck installing older gcc/g++ compiler (like `sudo apt install gcc-12 g++-12` and then provide that version via `CC` and `CXX` environment variables: `CC=gcc-12 CXX=g++-12 python -m pip install pyemma==2.5.7`).
 
 ```
 python -m pip install pandas==0.25.3
