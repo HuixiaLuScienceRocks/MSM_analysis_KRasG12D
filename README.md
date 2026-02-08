@@ -49,7 +49,7 @@ This usually means that you have a libtiff version that contains "libtiff.so.6" 
 within the pyemma conda environment:
 
 ```
-conda activate pyemma
+conda activate pyemma-env
 ```
 
 ```
