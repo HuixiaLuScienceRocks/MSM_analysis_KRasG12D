@@ -40,7 +40,7 @@ If your computer has a `gcc` version 13 or greater, most probably it wont be abl
 #### Observation 2:
 
 
-If ou are facing this error while loading matplotlib: "ImportError: libtiff.so.5: cannot open shared object file: No such file or directory"
+If you are facing this error while loading matplotlib: "ImportError: libtiff.so.5: cannot open shared object file: No such file or directory"
 
 This usually means that you have a libtiff version that contains "libtiff.so.6" but matplotlib is trying to use "libtiff.so.5", so there is a mismatch here.
 
