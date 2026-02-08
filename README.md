@@ -31,7 +31,35 @@ conda activate pyemma-env
 ```
 python -m pip install pyemma==2.5.7
 ```
-OBS: If your computer has a `gcc` version 13 or greater, most probably it wont be able to build pyemma 2.5.7 from sources. If that happen you can try your luck installing older gcc/g++ compiler (like `sudo apt install gcc-12 g++-12` and then provide that version via `CC` and `CXX` environment variables: `CC=gcc-12 CXX=g++-12 python -m pip install pyemma==2.5.7`).
+-------------------------------------------------------------------------------------------------
+
+#### Observation 1: 
+
+If your computer has a `gcc` version 13 or greater, most probably it wont be able to build pyemma 2.5.7 from sources. If that happen you can try your luck installing older gcc/g++ compiler (like `sudo apt install gcc-12 g++-12` and then provide that version via `CC` and `CXX` environment variables: `CC=gcc-12 CXX=g++-12 python -m pip install pyemma==2.5.7`).
+
+#### Observation 2:
+
+
+If ou are facing this error while loading matplotlib: "ImportError: libtiff.so.5: cannot open shared object file: No such file or directory"
+
+This usually means that you have a libtiff version that contains "libtiff.so.6" but matplotlib is trying to use "libtiff.so.5", so there is a mismatch here.
+
+#### To fix this: install a matching Pillow build
+
+within the pyemma conda environment:
+
+```
+conda activate pyemma
+```
+
+```
+conda install -c conda-forge --strict-channel-priority \
+    libtiff=4.3.* \
+    pillow=8.4.* \
+    --force-reinstall
+```
+
+------------------------------------------------------------------------------------------------------
 
 ```
 python -m pip install pandas==0.25.3
