@@ -6,7 +6,7 @@ by Huixia Lu<sup>*</sup>, Honglin Xu, Jordi Marti, Buyong Ma, and Jordi Faraudo
 
 #### Simulating packages used in this work for conducting MD simulations:
 
-##### AMBER20 and NAMD3.0b2 packages utilizing the CHARMM36 force field
+##### AMBER20 and NAMD3.0b2 packages utilizing the CHARMM36m force field
 
 # Highlights from this work:
 
