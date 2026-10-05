@@ -1,6 +1,6 @@
 In this repository, we provide essential files for a submitted paper:
 
-## Nucleotide-dependent Structural Selection Governs c-Src Phosphorylation of Oncogenic KRas4B-G12D
+## RAS recognition by Src: Mechanistic insights from Molecular Dynamics Simulations
 
 by Huixia Lu*, Honglin Xu, Jordi Marti, Buyong Ma, and Jordi Faraudo* 
 
