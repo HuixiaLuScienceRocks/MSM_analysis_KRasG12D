@@ -10,7 +10,17 @@ by Huixia Lu*, Honglin Xu, Jordi Marti, Buyong Ma, and Jordi Faraudo*
 
 # Highlights from this work:
 
-This study reveals the molecular basis of c-Src’s nucleotide-dependent recognition of oncogenic KRas4B-G12D. Employing extensive all-atom molecular dynamics simulations and Markov state models, we demonstrate that c-Src exhibits a significantly higher binding tendency to the most populated macrostates of GTP-loaded KRas4B-G12D, while preferentially interacting with the least populated conformations of its GDP-loaded form, which is consistent with previous experimental findings on its selectivity. Our analysis reveals that the KRas macrostates with primary phosphorylation propensity upon Src binding share two common Src interaction regions (residues 340-359 and 453-473), which are minimally engaged in other macrostates, preferentially stabilizing phosphorylation-competent KRas conformations. Collectively, these findings provide mechanistic insight into Src’s selective recognition of nucleotide-bound KRas and offer a structural framework for the rational design of anticancer peptides targeting the GTP-bound KRas4B-G12D isoform over its GDP-bound counterpart.
+• Compared with the GDP-bound state, GTP-bound KRas4B-G12D adopts more open and dynamic conformations within the switch regions to facilitate easier access for c-Src-mediated phosphorylation at residues Tyr32 and Tyr64.
+
+• Molecular dynamics simulations identify that two specific regions of the c-Src kinase domain (residues 340-359 and 453-473) are key in forming state-dependent contacts capable of stabilizing phosphorylation-competent KRas4B structures.
+
+• Leu347, Asp348, Lys351, Gly459, Arg460, and Val461 of c-Src are identified as putative recognition hotspots for KRas-G12D.
+
+• The preferred phosphorylation site of KRas-G12D switches with nucleotide state: Tyr32 in the major conformers of the GTP-bound form versus Tyr64 in the GDP-bound form.
+
+• KRas-G12D recognition by Src may engage an allosteric network distinct from that underlying Src’s interactions with its canonical substrates.
+
+• The identified specific regions of the c-Src kinase domain provide a rational basis for designing chimeric peptides inhibitors able to selectively target active oncogenic KRas.
 
 # pyemma-markov-state-models
 
