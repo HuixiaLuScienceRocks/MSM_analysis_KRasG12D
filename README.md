@@ -16,7 +16,7 @@ by Huixia Lu*, Honglin Xu, Jordi Marti, Buyong Ma, and Jordi Faraudo*
 
 • Leu347, Asp348, Lys351, Gly459, Arg460, and Val461 of c-Src are identified as putative recognition hotspots for KRas-G12D.
 
-• The preferred phosphorylation site of KRas-G12D switches with nucleotide state: Tyr32 in the major conformers of the GTP-bound form versus Tyr64 in the GDP-bound form.
+• The preferred phosphorylation site of KRas-G12D depends on the nucleotide state: Tyr32 in the major conformers of the GTP-bound form versus Tyr64 in the GDP-bound form.
 
 • KRas-G12D recognition by Src may engage an allosteric network distinct from that underlying Src’s interactions with its canonical substrates.
 
