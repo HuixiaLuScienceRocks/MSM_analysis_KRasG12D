@@ -1,6 +1,6 @@
 In this repository, we provide essential files for a submitted paper:
 
-## RAS recognition by Src: Mechanistic insights from Molecular Dynamics Simulations
+## KRAS recognition by Src: Mechanistic insights from Molecular Dynamics Simulations
 
 by Huixia Lu*, Honglin Xu, Jordi Marti, Buyong Ma, and Jordi Faraudo* 
 
