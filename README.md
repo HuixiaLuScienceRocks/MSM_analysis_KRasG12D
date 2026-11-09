@@ -1,4 +1,4 @@
-In this repository, we provide essential files for a submitted paper:
+In this repository, we provide essential files for a paper accepted for publication by "Cell Reports Physical Science":
 
 ## Mechanistic insights into KRAS recognition by Src from Molecular Dynamics Simulations
 
